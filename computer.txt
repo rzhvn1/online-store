@@ -1,8 +1,9 @@
-Acer
-HP
+acer
+asus razer
+hp
 hp zenbook
 acer aspire
-MacbOOk PRO
-iMac
+macbook pro
+imac
 macbook air
 lenovo
