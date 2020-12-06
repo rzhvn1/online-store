@@ -1,6 +1,6 @@
-GeForce RTX
-AMD
+geforce rtx
+amd
 amd rx760
-Intel HD
-AMD
-aMd ryzen
+intel hd
+amd
+amd ryzen
