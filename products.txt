@@ -1,26 +1,26 @@
-Acer
-ASUS razer
-HP
+acer
+asus razer
+hp
 hp zenbook
 acer aspire
 iphone x
-Iphone PRO MAX
+iphone pro max
 samsung galaxy
-samsung TAB515
-Sony Ericson
+samsung tab515
+sony ericson
 nokia 3310
-Nokia WIN
+nokia win
 adata hdd1tb
-ADATA SSD
-Kingston 1tb
-kiNGston ssd
-GeForce RTX
-AMD
+adata ssd
+kingston 1tb
+kingston ssd
+geforce rtx
+amd
 amd rx760
-Intel HD
-MacbOOk PRO
-iMac
+intel hd
+macbook pro
+imac
 macbook air
 lenovo
-AMD
-aMd ryzen
+amd
+amd ryzen
